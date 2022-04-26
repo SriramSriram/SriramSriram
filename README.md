@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Sriram
 - 👀 I’m interested in Web Design and Web Development.
-- 🌱 I’m currently learning javascript, ReactJS, ExpressJS MongoDB.
-- 💞️ I’m looking an intern at any leading industry as software Developer.
+- 🌱 I’m currently learning javascript, ReactJS, ExpressJS and MongoDB.
+- 💞️ I’m looking for an intern at any leading industry as software Developer.
 - 📫 Reach me at sriram.s30042000@gmail.com.
 
 <!---
